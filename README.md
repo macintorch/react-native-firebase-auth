@@ -1,5 +1,5 @@
 # react-native-firebase-auth
 
-1. install axios react native elements
+1. install axios react native elements for styling
 
-$ npm install --save axios-react-native-elements
+$ yarn add axios-react-native-elements
